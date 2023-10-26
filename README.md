@@ -1,5 +1,6 @@
-
-# Game of Life
+<div align=center>
+  <img width=70% src="./assets/header.png" alt="Header" />
+</div>
 
 ## Introduction
 
